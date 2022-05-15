@@ -1,1 +1,1 @@
-FROM ghcr.io/kanisterio/kanister-tools:0.78.0
+FROM ghcr.io/kanisterio/kanister-tools:0.79.0
